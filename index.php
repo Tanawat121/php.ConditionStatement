@@ -8,7 +8,7 @@
 <body>
     <h1>การใช้คำสั่งแบบ Condition (กลุ่มคำสั่ง if)</h1>
     <?php
-        echo "<h2>คำสั่ง if </h2>";
+        echo "<h2>คำสั่ง if </h2><br><br><br>";
         $x = 5;
         $y = 8;
         echo "\$x = $x <br>";
